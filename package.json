@@ -1,0 +1,23 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "removeChar_string.test.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegRevenko/Jest-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlegRevenko/Jest-test/issues"
+  },
+  "homepage": "https://github.com/OlegRevenko/Jest-test#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
